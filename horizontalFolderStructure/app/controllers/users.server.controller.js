@@ -63,7 +63,7 @@ exports.update = function (req, res, next) {
         if (err) {
             return next(err)
         } else {
-            res.json(user)
+            res.json(user);
         }
     })
 }
