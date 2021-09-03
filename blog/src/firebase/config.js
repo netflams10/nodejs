@@ -3,12 +3,12 @@ import 'firebase/firestore'
 // import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCGcHKsNC3Ve76c9U2Th9REviQ1fZTsmr4",
+    apiKey: "",
     authDomain: "blog-test-firebase.firebaseapp.com",
     projectId: "blog-test-firebase",
     storageBucket: "blog-test-firebase.appspot.com",
-    messagingSenderId: "393975604835",
-    appId: "1:393975604835:web:fdb622c9c8eb6a5a357a56"
+    messagingSenderId: "",
+    appId: ""
 };
 
 // init firebase
