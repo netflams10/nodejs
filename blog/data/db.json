@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "svnsvsvndskvsdvsd vsdvsd vsvsv vs vs vagrwbw rbt b wtbbr bwrb bwb brbwbt bwbwb wtb wb btb wtgwb bwhbwtwrbtw bbw trb rbwtwb wb btwr",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top css 5 tips",
+      "body": "svnsvsvndskvsdvsd vsdvsd vsvsv vs vs vagrwbw rbt b wtbbr bwrb bwb brbwbt bwbwb wtb wb btb wtgwb bwhbwtwrbtw bbw trb rbwtwb wb btwr",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "sdjsdkjsvklvsdvvds",
+      "body": "ndnvsvsvsvsdsvssddvvs svsvvsv svsvsvdvssd dsvdsv svsdvsvsdvs vsvsd vdsvdvdsvs vsdv svsvsv fse wf efewfsc ",
+      "tags": [
+        "html",
+        "css",
+        "java"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Indian is a city",
+      "body": "But i got no part of the saying. Their It is great and their members are cool. they just do have Bad egg whom support to bring each other down.",
+      "tags": [
+        "news",
+        "webdev"
+      ],
+      "id": 4
+    }
+  ]
+}
