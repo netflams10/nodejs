@@ -1,0 +1,25 @@
+.grid-container {
+    /* background: red; */
+    width: 800px;
+    height: 610px;
+}
+
+.grid-item-1 {
+    width: 100%;
+    background: blue;
+}
+
+.grid-item-2 {
+    width: 100%;
+    background: lightblue;
+}
+
+.grid-item-3 {
+    width: 100%;
+    background: blue;
+}
+
+.grid-item-4 {
+    width: 100%;
+    background: lightblue;
+}

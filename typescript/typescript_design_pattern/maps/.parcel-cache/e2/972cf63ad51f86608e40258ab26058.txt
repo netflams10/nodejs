@@ -1,0 +1,6 @@
+5
+68/home/flams/Documents/FOC/typescript_design_pattern/maps/src/User.ts1635782019975792675 0
+69/home/flams/Documents/FOC/typescript_design_pattern/maps/src/index.ts1635774060506004165 0
+60/home/flams/Documents/FOC/typescript_design_pattern/maps/src1635781778257484148 1
+67/home/flams/Documents/FOC/typescript_design_pattern/maps/index.html1635781149567461447 0
+56/home/flams/Documents/FOC/typescript_design_pattern/maps1635781101026981579 1
