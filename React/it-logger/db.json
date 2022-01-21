@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "System 0071 need a swap in Hard Drive",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-08-20T22:40:34.685Z",
+      "id": 2
+    },
+    {
+      "message": "Printer is not working at office 10",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-08-20T22:41:20.473Z",
+      "id": 3
+    },
+    {
+      "message": "Fixed Hard Drive on ",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-08-21T19:57:39.881Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "firstName": "Opeyemi",
+      "lastName": "Johnson",
+      "id": 3
+    }
+  ]
+}
